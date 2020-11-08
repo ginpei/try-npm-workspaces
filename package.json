@@ -1,6 +1,7 @@
 {
+  "private": true,
   "name": "workspace-example",
-  "version": "1.0.0",
+  "version": "1.23.4",
   "workspaces": [
     "main",
     "sub"

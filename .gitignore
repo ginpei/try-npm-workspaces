@@ -1,7 +1,4 @@
 # packages
-/node_modules/
-/npm-debug.log
-/yarn-error.log
-
-# project
-/out/
+node_modules/
+npm-debug.log
+yarn-error.log
