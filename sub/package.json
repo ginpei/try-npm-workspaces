@@ -1,7 +1,6 @@
 {
   "private": true,
   "name": "sub",
-  "version": "1.23.4",
   "main": "out/index.js",
   "typings": "out/index.d.ts",
   "devDependencies": {
