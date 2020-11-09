@@ -2,18 +2,18 @@ const sub = require('sub');
 
 const candidates = [
   {
-    title: '大吉',
-    message: 'えらいこってす',
+    title: 'Great',
+    message: 'It will be a great day',
   },
   {
-    title: '吉',
-    message: 'ぼちぼちでんな',
+    title: 'Nice',
+    message: 'The day will go nicely.',
   },
   {
-    title: '末吉',
-    message: 'ほなよろしう',
+    title: 'So so',
+    message: 'You won\'t feel so bad',
   },
 ];
 
 const result = sub.pickOmikuji(candidates);
-console.log(`結果【${result.title}】 ${result.message}`);
+console.log(`Result [${result.title}] ${result.message}`);
