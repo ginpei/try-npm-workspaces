@@ -1,17 +1,17 @@
-const sub = require('sub');
+const sub = require("sub");
 
 const candidates = [
   {
-    title: 'Great',
-    message: 'It will be a great day',
+    title: "Great",
+    message: "It will be a great day",
   },
   {
-    title: 'Nice',
-    message: 'The day will go nicely.',
+    title: "Nice",
+    message: "The day will go nicely.",
   },
   {
-    title: 'So so',
-    message: 'You won\'t feel so bad',
+    title: "So so",
+    message: "You won't feel so bad",
   },
 ];
 
