@@ -1,4 +1,4 @@
-interface OmikujiResult {
+export interface OmikujiResult {
   title: string;
   message: string;
 }

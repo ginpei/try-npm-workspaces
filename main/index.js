@@ -1,5 +1,8 @@
+// @ts-check
+
 const sub = require("sub");
 
+/** @type {import('sub').OmikujiResult[]} */
 const candidates = [
   {
     title: "Great",

@@ -2,7 +2,6 @@
   "private": true,
   "name": "sub",
   "main": "out/index.js",
-  "typings": "out/index.d.ts",
   "devDependencies": {
     "typescript": "^4.0.5"
   }
